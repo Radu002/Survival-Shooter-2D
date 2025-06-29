@@ -1,5 +1,5 @@
-# Shooter2D + laboratoare EGC
+# Survival Shooter 2D
 
-Laboratoarele 1-9 EGC integral + tema 1 survival shooter 2D
+It is a 2D survival shooter made in OpenGL, where the goal of the game is to achieve the highest possible score.
 
-Este necesar CMake pentru a face build. 
+To set up the framework, CMake needs to be installed, and for Visual Studio, the 'Desktop development with C++' module is required.
